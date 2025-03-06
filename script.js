@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const suggestionBtns = document.querySelectorAll('.suggestion-btn');
   
   // Clé API Gemini
-  const API_KEY = "AIzaSyB2LJHxmR72BY4kmy-3IE3VGQH6s6yGtXU";
+  const API_KEY = "Votre clé API";
   
   // Nombre maximal de mots dans la réponse du bot
   const MAX_WORDS = 50;
